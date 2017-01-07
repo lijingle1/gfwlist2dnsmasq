@@ -13,10 +13,10 @@ Using:
 
 Modify gfwlist2dnsmasq.py:
 
-Change this to your DNS server IP&port:
+Change this to your canada DNS server IP&port:
 ```python
-mydnsip = '127.0.0.1'
-mydnsport = '5353'
+mydnsip = '208.67.222.222'
+mydnsport = '443'
 ```
 
 Change this to your ipset name:
